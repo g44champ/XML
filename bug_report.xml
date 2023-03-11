@@ -1,1 +1,21 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<Bug_report>
+    <id_1>
+        <Title>Missing textbox 'Search intrument'</Title>
+        <Steps>
+            <Step_1>Open capital.com</Step_1> 
+            <Step_2>Search textbox</Step_2>
+        </Steps>
+        <AR>Textbox is missing</AR>
+        <ER>Textbox on page</ER>
+    </id_1>
+    <id_2>
+        <Title>Button "Products" is unclickable</Title>
+        <Steps>
+            <Step_1>Open capital.com</Step_1>
+            <Step_2>Click "Products" button </Step_2>
+        </Steps>
+        <AR>Button is unclickable</AR>
+        <ER>Redirecting to "Products" page</ER>
+    </id_2>
+</Bug_report>
