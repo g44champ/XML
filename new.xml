@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Person_information>
+   <Name>Anton</Name>
+   <Age>26</Age>
+   <Quantity_pet>1</Quantity_pet>
+   <Desired_salary>100k$</Desired_salary>
+</Person_information>
